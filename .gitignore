@@ -1,0 +1,9 @@
+# ingore all files
+*
+!.gitignore
+
+# except data/save
+!data/
+data/*
+!data/save/
+!data/save/**/*
